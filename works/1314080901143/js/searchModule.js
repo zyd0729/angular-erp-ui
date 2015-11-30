@@ -14,7 +14,7 @@ searchModule.controller('MyFilterDemoCtrl', function ($scope) {
             dingdanzhuangtai: 'super-basic-plan',
             dingdanriqi: 'JENNA',
             fahuoriqi: 'JENNA'
-        }; 
+        };
         $scope.data = searchData;
     }
 );
