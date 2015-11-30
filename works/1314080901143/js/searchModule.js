@@ -17,7 +17,7 @@ searchModule.controller('MyFilterDemoCtrl', function ($scope) {
         };
         $scope.data = searchData;
     }
-);
+); 
 
 // use the myAppModule variable to
 // configure the module with a filter
